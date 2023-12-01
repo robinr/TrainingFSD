@@ -1,7 +1,8 @@
 function left_click() {
-  console.log("reaching leftclick");
+  var img = document.getElementById("slider").src ="https://robinr.github.io/TrainingFSD/pict/jupiter3.jpg";
+  
 }
 
 function right_click() {
-  console.log("reaching rightclick");
+  var img = document.getElementById("slider").src ="https://robinr.github.io/TrainingFSD/pict/jupiter1.jpg";
 }
